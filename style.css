@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Margarine', cursive;
+    color: blueviolet
+}
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Margarine', cursive;
+    color: orangered;
+}
+
+img {
+    border-style: double;
+    border-color: hotpink;
+    border-width: 12px;
+    border-radius: 25px;
+}
+
+body {
+    background-color: rgb(195, 195, 211);
+}
